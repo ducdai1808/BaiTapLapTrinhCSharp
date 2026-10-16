@@ -8,7 +8,3 @@ Chuc nang:
 - Xoa thiet bi co hoi xac nhan.
 - Lam moi cac o nhap.
 - Hien thi danh sach bang DataGridView.
-
-Luu y:
-- Day la project WinForms viet UI bang code, khong phu thuoc file Designer.cs.
-- Du lieu chi luu trong bo nho khi chuong trinh dang chay; dong chuong trinh se mat du lieu.
