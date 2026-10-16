@@ -28,4 +28,4 @@ Xây dựng ứng dụng quản lý danh mục thiết bị điện tử bằng 
 
 ## 5. Hình ảnh chương trình
 ### Danh sách thiết bị
-![Danh sách thiết bị](Images/danh-sach-thiet-bi2.jpg)
+![Danh sách thiết bị](danh-sach-thiet-bi2.jpg)
